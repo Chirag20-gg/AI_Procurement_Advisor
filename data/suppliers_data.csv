@@ -1,0 +1,9 @@
+Supplier_ID,Supplier_Name,Category,Unit_Price,Quality_Score,Defect_Rate,Delivery_Reliability,Lead_Time_Days,Risk_Level,Payment_Terms_Days,Annual_Capacity,Past_Performance_Score
+SUP001,Alpha Supplies,Packaging,95,82,4.2,84,12,Medium,30,100000,80
+SUP002,Beta Industries,Packaging,108,94,1.5,92,8,Low,45,120000,93
+SUP003,Gamma Traders,Packaging,88,76,6.1,71,18,High,30,90000,72
+SUP004,Delta Manufacturing,Packaging,101,88,2.8,86,10,Low,60,110000,87
+SUP005,Omega Solutions,Packaging,92,81,3.9,79,15,Medium,30,95000,78
+SUP006,Prime Materials,Packaging,112,96,1.2,95,7,Low,45,125000,95
+SUP007,Universal Suppliers,Packaging,90,79,4.5,77,16,Medium,30,105000,76
+SUP008,Vertex Industries,Packaging,99,86,2.9,88,11,Low,60,115000,85
